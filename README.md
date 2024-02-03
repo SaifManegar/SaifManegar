@@ -4,4 +4,4 @@ Skills and Technologies
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 Model Building: Machine learning (Regression, Classification, and Clustering), Statistics.
 Data Analysis: Exploratory Data Analysis, Feature Engineering, ETL pipelines, Tableau
-Other: Git, GIthub, Microsoft Excel, Office and PowerPoint.
+Other: Git, GIthub, Microsoft Excel, Word and PowerPoint.
