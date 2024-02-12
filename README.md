@@ -3,5 +3,5 @@ Hello and welcome to my Github profile! My name is Saif Manegar, and I am a data
 Skills and Technologies
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
 Model Building: Machine learning (Regression, Classification, and Clustering), Statistics.
-Data Analysis: Exploratory Data Analysis, Feature Engineering, ETL pipelines, Tableau
+Data Analysis: Exploratory Data Analysis, Feature Engineering, ETL, Tableau
 Other: Git, GIthub, Microsoft Excel, Word and PowerPoint.
