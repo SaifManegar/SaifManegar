@@ -1,4 +1,4 @@
-Hello and welcome to my Github profile! My name is Saif Manegar, and I am a data enthusiast with a passion for using technology to solve complex problems and make a positive impact on society. Currently undergoing an internship at Infinity Learn, I possess a deep understanding of Data Analytics and various Machine Learning algorithms and techniques, as well as their practical applications.
+Welcome to my Github profile! I'm Saif Manegar, and I recently completed an internship at Infinity Learn. I'm passionate about utilizing technology to address complex issues and drive positive change in society. My expertise lies in Data Analytics and various Machine Learning techniques, along with their practical implementations.
 
 Skills and Technologies
 Programming: Python (Pandas, NumPy, Matplotlib, Seaborn, Sklearn), SQL
